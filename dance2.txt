@@ -1,6 +1,6 @@
 This is dance 2 file. Thanks! 
 
-I'm adding this comment from Visual Source Code. 
+I'm adding this comment from Visual Source Code to confirm the synching. 
 
 
 Thanks,
