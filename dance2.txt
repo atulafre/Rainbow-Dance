@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 This is dance 2 file. Thanks! 
 
 I'm adding this comment from Visual Source Code. 
-=======
-This is dance 2 file. 
 
-Hi from Github
->>>>>>> 604bcb8427bcaf1215c8d3d8079342c507ceaec8
+
+
